@@ -7,5 +7,6 @@ public class GithubStudy {
         System.out.println("local to Remote");
         System.out.println("shortcut review");
          System.out.println("shortcut second review");
+        System.out.println("Test commit");
     }
 }
