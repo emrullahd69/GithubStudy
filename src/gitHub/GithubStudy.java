@@ -9,5 +9,6 @@ public class GithubStudy {
          System.out.println("shortcut second review");
         System.out.println("Test commit");
         System.out.println("deneme");
+        System.out.println("deneme2");
     }
 }
